@@ -1,0 +1,29 @@
+.picture {
+  margin-left: 300px;
+  margin-right: 300px;
+  background-image: url(images/background\ picture.jpg);
+}
+.heading {
+  text-align: center;
+  color: aliceblue;
+}
+
+.paragraph-container-1 {
+  text-align: center;
+  color: aliceblue;
+}
+
+.paragraph-container-2 {
+  text-align: center;
+  color: aliceblue;
+}
+
+.paragraph-container-3 {
+  text-align: center;
+  color: aliceblue;
+}
+
+.paragraph-container-4 {
+  text-align: center;
+  color: aliceblue;
+}
